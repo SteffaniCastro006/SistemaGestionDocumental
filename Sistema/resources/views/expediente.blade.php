@@ -1,4 +1,4 @@
-@extends('')
+@extends('layouts.app')
 
 @section('title')
   BIENVENIDO 

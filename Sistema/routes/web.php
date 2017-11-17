@@ -19,4 +19,5 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-Route::get('/expediente', 'expedienteController@index')->name('home');
+Route::get('/expediente', 'expedienteController@index')->name('expediente');
+
