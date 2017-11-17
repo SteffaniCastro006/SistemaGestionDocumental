@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Sistema de Gestión Documental UNETttttttttttt
+                    Sistema de Gestión Documental UNET
                 </div>
 
             </div>
